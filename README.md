@@ -3,7 +3,7 @@ this repository contains all my data science and AI projects portfolio
 
 ### Summary
 - project one
-  > goal
-  > steps
-  > stack
-  > sources : <link></link> 
+  * goal
+  * steps
+  * stack
+  * sources : <link></link> 
